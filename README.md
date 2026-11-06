@@ -26,3 +26,6 @@ Direct code contributions via Pull Requests are closed. However, feature proposa
 >[GitHub Issues](https://github.com/PyroLysis/pyrokan/issues)
 
 > discord server: gg.pyrocord
+
+<img width="1200" height="1000" alt="image" src="https://github.com/user-attachments/assets/53e8fa7a-3389-4693-9ba7-da45c499246e" />
+
