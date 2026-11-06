@@ -2,11 +2,11 @@
 
 Kanban styled task management application made in Swift with the goal to optimise workflow with the least impact on resources/performance
 
+### system specs
 ```
-## System Specifications
-* **Target Platform:** macOS 14.0+ (Apple Silicon)
-* **UI Framework:** SwiftUI, AppKit 
-* **Runtime Overhead:** < 30 MB RAM footprint Estimated
+> Target Platform: macOS 14.0+ (Apple Silicon)
+> UI Framework:SwiftUI, AppKit 
+> Runtime Overhead: < 30 MB RAM footprint Estimated
 ```
 
 ## License & Intellectual Property
@@ -14,13 +14,15 @@ Kanban styled task management application made in Swift with the goal to optimis
 ```
 Copyright (c) 2026 Pyrolysis.wav All Rights Reserved.
 
-* **Source-Availability:** The source code hosted within this repository is provided strictly for inspection and educational review.
-* **Restrictions:** Unauthorized copying, modification, distribution, commercial deployment, or rebranding of this codebase or its derivative works is strictly prohibited.
-* **Trademark:** "PyroKan" and associated repository branding are proprietary trademarks of the author.
+> Source-Availability: The source code hosted within this repository is provided strictly for inspection and educational review.
+> Restrictions: Unauthorized copying, modification, distribution, commercial deployment, or rebranding of this codebase or its derivative works is strictly prohibited.
+> Trademark: "PyroKan" and associated repository branding are proprietary trademarks of the author.
 ```
 
 ## Feature Requests & Issue Tracking
 
 Direct code contributions via Pull Requests are closed. However, feature proposals and bug reports are managed via the issue tracker:
 
-* [GitHub Issues](https://github.com/PyroLysis/pyrokan/issues)
+>[GitHub Issues](https://github.com/PyroLysis/pyrokan/issues)
+
+> discord server: gg.pyrocord
