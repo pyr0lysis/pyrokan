@@ -2,6 +2,9 @@
 
 Kanban styled task management application made in Swift with the goal to optimise workflow with the least impact on resources/performance
 
+<div> <img width="1133" height="420" alt="image" src="https://github.com/user-attachments/assets/0429e052-f920-4793-9a80-152ec81ccc25" />
+ </div>
+
 ### system specs
 ```
 > Target Platform: macOS 14.0+ (Apple Silicon)
