@@ -1,5 +1,9 @@
 # PyroKan
 
+<p align="center">
+  <img width="256" height="256" alt="AppIcon256" src="https://github.com/user-attachments/assets/2e06a8f0-c85b-48ff-af1d-ec3ae6a51c07" />
+</p>
+
 Kanban styled task management application made in Swift with the goal to optimise workflow with the least impact on resources/performance
 
 ### system specs
